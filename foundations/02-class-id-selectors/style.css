@@ -1,0 +1,21 @@
+.test-class{
+    background-color: pink;
+    color: black;
+    font-family:"Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second{
+    background-color: white;
+    color: blue;
+    font-size: 36px;
+}
+
+#third{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
